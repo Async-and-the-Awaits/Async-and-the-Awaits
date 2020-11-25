@@ -295,7 +295,7 @@ async function logout(username) {
         '\n \n May a curse of financial destitution be brought down upon your progeny.'
       )
     );
-    process.exit(0); // Will give a clean exit after timeout
+    // process.exit(0); // Will give a clean exit after timeout
   }, 9000);
 }
 

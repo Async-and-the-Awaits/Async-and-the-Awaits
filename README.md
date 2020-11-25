@@ -4,6 +4,8 @@
 
 Code401 Midterm Project
 
+![Command Love Interface Landing Menu](./assets/cli-preview.png)
+
 ### Authors
 
 - Lulu Sevignon
