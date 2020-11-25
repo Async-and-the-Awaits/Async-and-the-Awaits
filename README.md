@@ -4,7 +4,7 @@
 
 Code401 Midterm Project
 
-### Members
+### Authors
 
 - Lulu Sevignon
 - Alex Whan
@@ -13,15 +13,11 @@ Code401 Midterm Project
 
 ### Project Proposal
 
-#### Command Love Interface**
-**Project Short Description**
-
 For lonely, overworked developers who suffer from increasing social paralysis and the impact of COVID-19. Meet the love of your life without leaving the terminal with the dating app for backend developers. Connect about your common languages, learn all of the great features of ES6, and enjoy unlimited messages for a low, low monthly subscription.
 
 ### User Stories
 
-- Guillermo is a 24 year old software developer from Cupertino, California. When he's not writing software for a small startup, he's researching how to write software for the small startup. With so little spare time, Guillermo desires to connect with someone who shares a common interest in back-end design and a similarly imbalanced work to leisure ratio.
-  As an overworked software developer, Guillermo is seeking a convenient way to connect with potential partners without having to disrupt his life in a significant way.
+- Guillermo is a 24 year old software developer from Cupertino, California. When he's not writing software for a small startup, he's researching how to write software for the small startup. With so little spare time, Guillermo desires to connect with someone who shares a common interest in back-end design and a similarly imbalanced work to leisure ratio. As an overworked software developer, Guillermo is seeking a convenient way to connect with potential partners without having to disrupt his life in a significant way.
 
 - As a user, I'm bored of the same old terminal interface and desire the aesthetics of traditional front-end applications while interacting on the back-end.
 
